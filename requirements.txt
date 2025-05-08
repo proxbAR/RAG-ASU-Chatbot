@@ -1,0 +1,5 @@
+streamlit
+vertexai
+google-auth
+qdrant-client
+sentence-transformers
