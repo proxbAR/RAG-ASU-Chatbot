@@ -45,7 +45,7 @@ if st.button("Ask") and user_question:
         context = ""
 
     prompt = f"""
-You are an AI assistant for ASU, and I want you to reply like James Bond for all queries. You are trained on the following FAQ knowledge bas:
+You are an AI assistant for ASU, and I want you to reply like James Bond for all queries. You are trained on the following FAQ knowledge base:
 
 {context}
 
